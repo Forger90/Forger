@@ -8269,11 +8269,11 @@
 		"defname": "ShuttleComp_Plates"
 	},
 	{
-		"abr": "superpod"
+		"abr": "superpod" ,
 		"price": 2158,
 		"category": "Buildings" ,
 		"defname": "SRTSSuperpod"
-	},
+	}
 	],
 	"total": 1704
 }
