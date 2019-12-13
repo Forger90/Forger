@@ -8269,9 +8269,9 @@
 		"defname": "ShuttleComp_Plates"
 	},
 	{
-		"abr": "superpod",
+		"abr": "superpod"
 		"price": 2158,
-		"category": "Buildings"
+		"category": "Buildings" ,
 		"defname": "SRTSSuperpod"
 	},
 	],
