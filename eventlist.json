@@ -206,11 +206,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "party",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Bad"
@@ -342,8 +337,8 @@
 	},
 	{
 		"abr": "supernova",
-		"price": 1500,
-		"karmatype": "Good"
+		"price": 2500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "superheatwave",
@@ -441,5 +436,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 88
+	"total": 87
 }
