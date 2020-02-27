@@ -106,11 +106,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "animaltame",
 		"price": 150,
 		"karmatype": "Good"
@@ -139,11 +134,6 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 1500,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -316,11 +306,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "berescued",
-		"price": 900,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
@@ -334,107 +319,7 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "supernova",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "superheatwave",
-		"price": 1800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "bouldermasshit",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "leanatmosphere",
-		"price": 6000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "icestorm",
-		"price": 2400,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "heavyair",
-		"price": 6000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidportal",
-		"price": 3200,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "beetlerush",
-		"price": 12000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "reversetraderequest",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "woundedcombatants",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "pirateextortion",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "roadworks",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "diplomaticmarriage",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "mysticalshaman",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "annualexpo",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "peacetalks",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "piratecamp",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "bumpercrops",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hunterslodge",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "baseattack",
-		"price": 1000,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 87
+	"total": 64
 }
