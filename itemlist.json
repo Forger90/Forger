@@ -1881,7 +1881,7 @@
 	{
 		"abr": "joywire",
 		"price": 7500,
-		"category": "Glitterworld parts",
+		"category": "Prosthetic",
 		"defname": "Joywire"
 	},
 	{
@@ -2439,7 +2439,7 @@
 	{
 		"abr": "painstopper",
 		"price": 7500,
-		"category": "Glitterworld parts",
+		"category": "Prosthetic",
 		"defname": "Painstopper"
 	},
 	{
@@ -3945,19 +3945,19 @@
 	{
 		"abr": "bionicheart",
 		"price": 1383,
-		"category": "Epoe redundancy",
+		"category": "Bionic",
 		"defname": "BionicHeart"
 	},
 	{
 		"abr": "bionicstomach",
 		"price": 1308,
-		"category": "Epoe redundancy",
+		"category": "Bionic",
 		"defname": "BionicStomach"
 	},
 	{
 		"abr": "prostheticheart",
 		"price": 358,
-		"category": "Epoe redundancy",
+		"category": "Prosthetic",
 		"defname": "SimpleProstheticHeart"
 	},
 	{
@@ -3969,67 +3969,67 @@
 	{
 		"abr": "advancedbionicarm",
 		"price": 3308,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicArm"
 	},
 	{
 		"abr": "advancedbionicear",
 		"price": 2075,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicEar"
 	},
 	{
 		"abr": "advancedbioniceye",
 		"price": 2450,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicEye"
 	},
 	{
 		"abr": "advancedbionicfinger",
 		"price": 708,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicFinger"
 	},
 	{
 		"abr": "advancedbionicfoot",
 		"price": 2042,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicFoot"
 	},
 	{
 		"abr": "advancedbionichand",
 		"price": 2042,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicHand"
 	},
 	{
 		"abr": "advancedbionicjaw",
 		"price": 1967,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicJaw"
 	},
 	{
 		"abr": "advancedbionicleg",
 		"price": 3308,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicLeg"
 	},
 	{
 		"abr": "advancedbionicspine",
 		"price": 3308,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicSpine"
 	},
 	{
 		"abr": "advancedbionictoe",
 		"price": 708,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicToe"
 	},
 	{
 		"abr": "advancedpowerarm",
 		"price": 5483,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedPowerArm"
 	},
 	{
@@ -4041,7 +4041,7 @@
 	{
 		"abr": "aichip",
 		"price": 2675,
-		"category": "Synthetic organs",
+		"category": "Bionic",
 		"defname": "AIChip"
 	},
 	{
@@ -4143,31 +4143,31 @@
 	{
 		"abr": "auxiliaryai(agricultural)",
 		"price": 3542,
-		"category": "Glitterworld parts",
+		"category": "Ultratech",
 		"defname": "FarmerCore"
 	},
 	{
 		"abr": "auxiliaryai(constructing)",
 		"price": 3542,
-		"category": "Glitterworld parts",
+		"category": "Ultratech",
 		"defname": "ConstructorCore"
 	},
 	{
 		"abr": "auxiliaryai(diplomatic)",
 		"price": 3542,
-		"category": "Glitterworld parts",
+		"category": "Ultratech",
 		"defname": "DiplomatCore"
 	},
 	{
 		"abr": "auxiliaryai(medical)",
 		"price": 4267,
-		"category": "Glitterworld parts",
+		"category": "Ultratech",
 		"defname": "DoctorCore"
 	},
 	{
 		"abr": "auxiliaryai(mining)",
 		"price": 3542,
-		"category": "Glitterworld parts",
+		"category": "Ultratech",
 		"defname": "MinerCore"
 	},
 	{
@@ -4269,7 +4269,7 @@
 	{
 		"abr": "brainstimulator",
 		"price": 1617,
-		"category": "Synthetic organs",
+		"category": "Bionic",
 		"defname": "BrainStimulator"
 	},
 	{
@@ -4395,7 +4395,7 @@
 	{
 		"abr": "exoskeletonsuit",
 		"price": 3767,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "ExoskeletonSuit"
 	},
 	{
@@ -4839,7 +4839,7 @@
 	{
 		"abr": "musclestimulator",
 		"price": 1608,
-		"category": "Synthetic organs",
+		"category": "Bionic",
 		"defname": "MuscleStimulator"
 	},
 	{
@@ -4863,7 +4863,7 @@
 	{
 		"abr": "neuromuscularframework",
 		"price": 2208,
-		"category": "Synthetic organs",
+		"category": "Bionic",
 		"defname": "NeuromuscularFramework"
 	},
 	{
@@ -5271,31 +5271,31 @@
 	{
 		"abr": "surrogateheart",
 		"price": 658,
-		"category": "Surrogate organs",
+		"category": "Epoe redundancy",
 		"defname": "SurrogateHeart"
 	},
 	{
 		"abr": "surrogatekidney",
 		"price": 483,
-		"category": "Surrogate organs",
+		"category": "Prosthetic",
 		"defname": "SurrogateKidney"
 	},
 	{
 		"abr": "surrogateliver",
 		"price": 483,
-		"category": "Surrogate organs",
+		"category": "Prosthetic",
 		"defname": "SurrogateLiver"
 	},
 	{
 		"abr": "surrogatelung",
 		"price": 483,
-		"category": "Surrogate organs",
+		"category": "Prosthetic",
 		"defname": "SurrogateLung"
 	},
 	{
 		"abr": "surrogatestomach",
 		"price": 483,
-		"category": "Surrogate organs",
+		"category": "Prosthetic",
 		"defname": "SurrogateStomach"
 	},
 	{
@@ -5307,43 +5307,43 @@
 	{
 		"abr": "syntheticheart",
 		"price": 1333,
-		"category": "Synthetic organs",
+		"category": "Epoe redundancy",
 		"defname": "SyntheticHeart"
 	},
 	{
 		"abr": "synthetickidney",
 		"price": 1083,
-		"category": "Synthetic organs",
+		"category": "Bionic",
 		"defname": "SyntheticKidney"
 	},
 	{
 		"abr": "syntheticliver",
 		"price": 1083,
-		"category": "Synthetic organs",
+		"category": "Bionic",
 		"defname": "SyntheticLiver"
 	},
 	{
 		"abr": "syntheticlung",
 		"price": 1083,
-		"category": "Synthetic organs",
+		"category": "Bionic",
 		"defname": "SyntheticLung"
 	},
 	{
 		"abr": "syntheticstomach",
 		"price": 1083,
-		"category": "Synthetic organs",
+		"category": "Epoe redundancy",
 		"defname": "SyntheticStomach"
 	},
 	{
 		"abr": "synthetictissue",
 		"price": 328,
-		"category": "Synthetic organs",
+		"category": "Bionic",
 		"defname": "SyntheticSkin"
 	},
 	{
 		"abr": "tacticalcorneaimplant",
 		"price": 3542,
-		"category": "Glitterworld parts",
+		"category": "Ultratech",
 		"defname": "TacticalCorneaImplant"
 	},
 	{
@@ -6437,7 +6437,181 @@
 		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "neuro-cureframework",
+		"price": 5142,
+		"category": "Ultratech",
+		"defname": "NeurocureFramework"
+	},
+	{
+		"abr": "advancedgeothermalgenerator",
+		"price": 3333,
+		"category": "Furniture",
+		"defname": "sd_adv_powergen_adv_geothermal_generator"
+	},
+	{
+		"abr": "advancednuclearpowerplant",
+		"price": 8900,
+		"category": "Furniture",
+		"defname": "sd_adv_powergen_nuclear_power_plant"
+	},
+	{
+		"abr": "advancedsolargenerator",
+		"price": 908,
+		"category": "Furniture",
+		"defname": "sd_adv_powergen_adv_solar_generator"
+	},
+	{
+		"abr": "advancedwindturbine",
+		"price": 808,
+		"category": "Furniture",
+		"defname": "sd_adv_powergen_adv_wind_turbine"
+	},
+	{
+		"abr": "astromite",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Astromite"
+	},
+	{
+		"abr": "capacitorarray",
+		"price": 7750,
+		"category": "Furniture",
+		"defname": "ShipCapacitor"
+	},
+	{
+		"abr": "cargoshuttle",
+		"price": 3925,
+		"category": "Furniture",
+		"defname": "CargoShuttle"
+	},
+	{
+		"abr": "cargoshuttle(hovermode)",
+		"price": 7500,
+		"category": "Animal",
+		"defname": "ShuttleCargoRace"
+	},
+	{
+		"abr": "cosmopillar",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Cosmopillar"
+	},
+	{
+		"abr": "dualrefrigerator",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "RimFridge_Refrigerator"
+	},
+	{
+		"abr": "evahelmet",
+		"price": 908,
+		"category": "Headgear",
+		"defname": "Apparel_SpaceSuitHelmet"
+	},
+	{
+		"abr": "evasuit",
+		"price": 1150,
+		"category": "Apparel",
+		"defname": "Apparel_SpaceSuitBody"
+	},
+	{
+		"abr": "heavycargoshuttle",
+		"price": 6292,
+		"category": "Furniture",
+		"defname": "HeavyShuttle"
+	},
+	{
+		"abr": "heavycargoshuttle(hovermode)",
+		"price": 16667,
+		"category": "Animal",
+		"defname": "ShuttleHeavyRace"
+	},
+	{
+		"abr": "heavyevahelmet",
+		"price": 1717,
+		"category": "Headgear",
+		"defname": "Apparel_SpaceSuitHelmetHeavy"
+	},
+	{
+		"abr": "heavyevasuit",
+		"price": 4117,
+		"category": "Apparel",
+		"defname": "Apparel_SpaceSuitBodyHeavy"
+	},
+	{
+		"abr": "insectmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Cosmopillar"
+	},
+	{
+		"abr": "personalshuttle",
+		"price": 1792,
+		"category": "Furniture",
+		"defname": "PersonalShuttle"
+	},
+	{
+		"abr": "personalshuttle(hovermode)",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "ShuttlePersonalRace"
+	},
+	{
+		"abr": "quadrefrigerator",
+		"price": 307,
+		"category": "Furniture",
+		"defname": "RimFridge_QuadRefrigerator"
+	},
+	{
+		"abr": "shipbridge",
+		"price": 1200,
+		"category": "Furniture",
+		"defname": "ShipPilotSeat"
+	},
+	{
+		"abr": "shipsalvage",
+		"price": 1758,
+		"category": "Special",
+		"defname": "ShipChunkSalvage"
+	},
+	{
+		"abr": "singlerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "stellapede",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Stellapede"
+	},
+	{
+		"abr": "uraniumfuelpod",
+		"price": 5,
+		"category": "Manufactured",
+		"defname": "ShuttleFuelPods"
+	},
+	{
+		"abr": "walldualrefrigerator",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "RimFridge_WallRefrigerator"
+	},
+	{
+		"abr": "wallsinglerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleWallRefrigerator"
+	},
+	{
+		"abr": "weathernormalizationdevice",
+		"price": 2000,
+		"category": "Artifacts",
+		"defname": "WeatherCancelDevice"
 	}
 	],
-	"total": 2554
+	"total": 2583
 }
