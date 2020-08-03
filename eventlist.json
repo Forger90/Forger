@@ -369,12 +369,7 @@
 		"abr": "replacetrait",
 		"price": 1,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "immortality",
-		"price": 100000,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 75
+	"total": 74
 }
