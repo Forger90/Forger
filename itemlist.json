@@ -451,12 +451,6 @@
 		"defname": "Gun_AssaultRifle"
 	},
 	{
-		"abr": "astromite",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Astromite"
-	},
-	{
 		"abr": "automaticpistol",
 		"price": 333,
 		"category": "Ranged weapons",
@@ -842,7 +836,7 @@
 	},
 	{
 		"abr": "biosolids",
-		"price": 0,
+		"price": -10,
 		"category": "Waste",
 		"defname": "Biosolids"
 	},
@@ -1181,18 +1175,6 @@
 		"price": 299,
 		"category": "Pants",
 		"defname": "Apparello_Pollypocket"
-	},
-	{
-		"abr": "cargoshuttle",
-		"price": 3925,
-		"category": "Furniture",
-		"defname": "CargoShuttle"
-	},
-	{
-		"abr": "cargoshuttle(hovermode)",
-		"price": 7500,
-		"category": "Animal",
-		"defname": "ShuttleCargoRace"
 	},
 	{
 		"abr": "caribou",
@@ -1745,12 +1727,6 @@
 		"price": 168,
 		"category": "Noble apparel",
 		"defname": "Apparel_Corset"
-	},
-	{
-		"abr": "cosmopillar",
-		"price": 833,
-		"category": "Animal",
-		"defname": "Cosmopillar"
 	},
 	{
 		"abr": "cottonfibre",
@@ -2395,18 +2371,6 @@
 		"defname": "Bed_DoubleErgonomic"
 	},
 	{
-		"abr": "evahelmet",
-		"price": 675,
-		"category": "Headgear",
-		"defname": "Apparel_SpaceSuitHelmet"
-	},
-	{
-		"abr": "evasuit",
-		"price": 1150,
-		"category": "Apparel",
-		"defname": "Apparel_SpaceSuitBody"
-	},
-	{
 		"abr": "exoskeletonsuit",
 		"price": 3950,
 		"category": "Ultratech",
@@ -2654,7 +2618,7 @@
 	},
 	{
 		"abr": "frostleaf",
-		"price": 0,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "AB_RawFrostLeaf"
 	},
@@ -3221,30 +3185,6 @@
 		"price": 808,
 		"category": "Bionic",
 		"defname": "HeaterRib"
-	},
-	{
-		"abr": "heavycargoshuttle",
-		"price": 6292,
-		"category": "Furniture",
-		"defname": "HeavyShuttle"
-	},
-	{
-		"abr": "heavycargoshuttle(hovermode)",
-		"price": 16667,
-		"category": "Animal",
-		"defname": "ShuttleHeavyRace"
-	},
-	{
-		"abr": "heavyevahelmet",
-		"price": 1500,
-		"category": "Headgear",
-		"defname": "Apparel_SpaceSuitHelmetHeavy"
-	},
-	{
-		"abr": "heavyevasuit",
-		"price": 4117,
-		"category": "Apparel",
-		"defname": "Apparel_SpaceSuitBodyHeavy"
 	},
 	{
 		"abr": "heavyfur",
@@ -5071,18 +5011,6 @@
 		"defname": "AIPersonaCore"
 	},
 	{
-		"abr": "personalshuttle",
-		"price": 1792,
-		"category": "Furniture",
-		"defname": "PersonalShuttle"
-	},
-	{
-		"abr": "personalshuttle(hovermode)",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "ShuttlePersonalRace"
-	},
-	{
 		"abr": "piano",
 		"price": 1417,
 		"category": "Recreation",
@@ -5366,7 +5294,7 @@
 	},
 	{
 		"abr": "propanebag",
-		"price": 0,
+		"price": -10,
 		"category": "Alien raw fish",
 		"defname": "VCEF_PropaneBag"
 	},
@@ -6247,22 +6175,10 @@
 		"defname": "AEXP_Shih-Tzu"
 	},
 	{
-		"abr": "shipbridge",
-		"price": 1200,
-		"category": "Furniture",
-		"defname": "ShipPilotSeat"
-	},
-	{
 		"abr": "shiplandingbeacon",
 		"price": 185,
 		"category": "Misc",
 		"defname": "ShipLandingBeacon"
-	},
-	{
-		"abr": "shipsalvage",
-		"price": 1758,
-		"category": "Special",
-		"defname": "ShipChunkSalvage"
 	},
 	{
 		"abr": "shirtandtie",
@@ -6697,12 +6613,6 @@
 		"defname": "SteelArm"
 	},
 	{
-		"abr": "stellapede",
-		"price": 333,
-		"category": "Animal",
-		"defname": "Stellapede"
-	},
-	{
 		"abr": "stirfry",
 		"price": 42,
 		"category": "Fine Meals",
@@ -6845,12 +6755,6 @@
 		"price": 417,
 		"category": "Prosthetic",
 		"defname": "SurrogateStomach"
-	},
-	{
-		"abr": "survivalbelt",
-		"price": 178,
-		"category": "Armor",
-		"defname": "Apparel_SpaceSurvivalBelt"
 	},
 	{
 		"abr": "sweetbun",
@@ -7118,7 +7022,7 @@
 	},
 	{
 		"abr": "tentacularfruit",
-		"price": 0,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "AB_RawTentacularFruit"
 	},
@@ -7459,12 +7363,6 @@
 		"defname": "Uranium"
 	},
 	{
-		"abr": "uraniumfuelpod",
-		"price": 5,
-		"category": "Manufactured",
-		"defname": "ShuttleFuelPods"
-	},
-	{
 		"abr": "urbantrousers",
 		"price": 209,
 		"category": "Pants",
@@ -7679,12 +7577,6 @@
 		"price": 137,
 		"category": "Furniture",
 		"defname": "Shelf_WeaponRack"
-	},
-	{
-		"abr": "weathernormalizationdevice",
-		"price": 2000,
-		"category": "Artifacts",
-		"defname": "WeatherCancelDevice"
 	},
 	{
 		"abr": "weldingmask",
@@ -8653,12 +8545,6 @@
 		"defname": "AnimusStone"
 	},
 	{
-		"abr": "antigraintorpedo",
-		"price": 2500,
-		"category": "Torpedoes",
-		"defname": "ShipTorpedo_Antimatter"
-	},
-	{
 		"abr": "brownbarrelcactus",
 		"price": 1,
 		"category": "Vegetarian",
@@ -8675,18 +8561,6 @@
 		"price": 1842,
 		"category": "Production",
 		"defname": "AB_CoreSampleDrill"
-	},
-	{
-		"abr": "emptorpedo",
-		"price": 433,
-		"category": "Torpedoes",
-		"defname": "ShipTorpedo_EMP"
-	},
-	{
-		"abr": "entanglementmanifold",
-		"price": 6667,
-		"category": "Items",
-		"defname": "SoSEntanglementManifold"
 	},
 	{
 		"abr": "asphaltbucket",
@@ -8707,12 +8581,6 @@
 		"defname": "AB_ExoticSmelterTar"
 	},
 	{
-		"abr": "high-explosivetorpedo",
-		"price": 433,
-		"category": "Torpedoes",
-		"defname": "ShipTorpedo_HighExplosive"
-	},
-	{
 		"abr": "iashiphusfruit",
 		"price": 1,
 		"category": "Vegetarian",
@@ -8729,12 +8597,6 @@
 		"price": 267,
 		"category": "Security",
 		"defname": "AB_TrapIED_Tar"
-	},
-	{
-		"abr": "minimalshipbridge",
-		"price": 425,
-		"category": "Furniture",
-		"defname": "ShipPilotSeatMini"
 	},
 	{
 		"abr": "prestigecataphractarmor",
@@ -8863,12 +8725,6 @@
 		"defname": "Apparel_HatHood"
 	},
 	{
-		"abr": "hullfoamcanister",
-		"price": 33,
-		"category": "Items",
-		"defname": "HullFoam"
-	},
-	{
 		"abr": "jumppack",
 		"price": 717,
 		"category": "Utility",
@@ -8915,12 +8771,6 @@
 		"price": 3350,
 		"category": "Armor",
 		"defname": "Apparel_ArmorLocust"
-	},
-	{
-		"abr": "permasunlamp",
-		"price": 129,
-		"category": "Furniture",
-		"defname": "PermaSunLamp"
 	},
 	{
 		"abr": "phoenixarmor",
@@ -9017,12 +8867,6 @@
 		"price": 324,
 		"category": "Prosthetic",
 		"defname": "EPIA_ScytherBlade"
-	},
-	{
-		"abr": "shipcapacitor",
-		"price": 908,
-		"category": "Furniture",
-		"defname": "ShipCapacitorSmall"
 	},
 	{
 		"abr": "smokeshell",
@@ -10033,83 +9877,107 @@
 		"defname": "VFEI_VatGrownMegacricket"
 	},
 	{
-		"abr": "vat-grownmegapede",
-		"price": 1250,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownMegapede"
+		"abr": "animaldevilbed",
+		"price": 742,
+		"category": "Furniture",
+		"defname": "AnimalMedicRobo"
 	},
 	{
-		"abr": "vat-grownmegascarab",
-		"price": 167,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownMegascarab"
-	},
-	{
-		"abr": "vat-grownmegaspider",
-		"price": 833,
-		"category": "Animal",
-		"defname": "VFEI_VatgrownMegaspider"
-	},
-	{
-		"abr": "vat-grownmilkbeetle",
-		"price": 583,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownMilkbeetle"
-	},
-	{
-		"abr": "vat-grownmonstrosity",
-		"price": 1250,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownMonstrosity"
-	},
-	{
-		"abr": "vat-grownprincess",
-		"price": 1500,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownPrincess"
-	},
-	{
-		"abr": "vat-grownroyallarva",
-		"price": 83,
-		"category": "Animal",
-		"defname": "VFEI_VatgrownRoyalLarva"
-	},
-	{
-		"abr": "vat-grownroyalmaggot",
+		"abr": "animalherbalbed",
 		"price": 333,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownRoyalMaggot"
+		"category": "Furniture",
+		"defname": "AnimalMedic"
 	},
 	{
-		"abr": "vat-grownspelopede",
-		"price": 333,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownSpelopede"
+		"abr": "book",
+		"price": 38,
+		"category": "Items",
+		"defname": "Jecrell_Book"
 	},
 	{
-		"abr": "vat-grownspiderweaver",
-		"price": 333,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownSpiderweaver"
+		"abr": "concreteslabs",
+		"price": 13,
+		"category": "Raw resources",
+		"defname": "ConcreteSlab"
 	},
 	{
-		"abr": "vat-growntitanbeetle",
-		"price": 917,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownTitanbeetle"
+		"abr": "cyberneticbed",
+		"price": 6625,
+		"category": "Furniture",
+		"defname": "IIMed"
 	},
 	{
-		"abr": "vat-grownwargling",
-		"price": 833,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownWargling"
+		"abr": "electricpapermakingstation",
+		"price": 408,
+		"category": "Production",
+		"defname": "RimWriter_PapermakingBenchElectric"
 	},
 	{
-		"abr": "vat-grownworkerant",
-		"price": 333,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownWorkerAnt"
+		"abr": "herbalbed",
+		"price": 475,
+		"category": "Furniture",
+		"defname": "HerbBede"
+	},
+	{
+		"abr": "journal",
+		"price": 38,
+		"category": "Items",
+		"defname": "Jecrell_BookJournal"
+	},
+	{
+		"abr": "papermakingtable",
+		"price": 358,
+		"category": "Production",
+		"defname": "RimWriter_PapermakingBench"
+	},
+	{
+		"abr": "permasunlamp",
+		"price": 129,
+		"category": "Furniture",
+		"defname": "PermaSunLamp"
+	},
+	{
+		"abr": "roboticbed",
+		"price": 1692,
+		"category": "Furniture",
+		"defname": "MedBed"
+	},
+	{
+		"abr": "scroll",
+		"price": 41,
+		"category": "Items",
+		"defname": "Jecrell_LeatherScroll"
+	},
+	{
+		"abr": "skillbook",
+		"price": 6667,
+		"category": "Items",
+		"defname": "Jecrell_Guidebook"
+	},
+	{
+		"abr": "skillbook",
+		"price": 6667,
+		"category": "Items",
+		"defname": "Jecrell_Skillbook"
+	},
+	{
+		"abr": "stoneshelf",
+		"price": 171,
+		"category": "Furniture",
+		"defname": "Jecrell_StoneShelf"
+	},
+	{
+		"abr": "tablet",
+		"price": 41,
+		"category": "Items",
+		"defname": "Jecrell_Tablet"
+	},
+	{
+		"abr": "typewritingtable",
+		"price": 467,
+		"category": "Production",
+		"defname": "RimWriter_TableTypewriter"
 	}
 	],
-	"total": 1696
+	"total": 1688
 }
