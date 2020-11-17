@@ -7723,12 +7723,6 @@
 		"defname": "AirThermal"
 	},
 	{
-		"abr": "airexhaustvent",
-		"price": 231,
-		"category": "Climate",
-		"defname": "AirVent"
-	},
-	{
 		"abr": "archotechviolencegenerator",
 		"price": 5667,
 		"category": "Special",
@@ -9977,7 +9971,241 @@
 		"price": 467,
 		"category": "Production",
 		"defname": "RimWriter_TableTypewriter"
+	},
+	{
+		"abr": "burlap",
+		"price": 2,
+		"category": "Textiles",
+		"defname": "INS_Burlap"
+	},
+	{
+		"abr": "insulationslab(biomass)",
+		"price": 5,
+		"category": "Insulation materials",
+		"defname": "INSSlab_Biomass"
+	},
+	{
+		"abr": "insulationslab(fibres)",
+		"price": 12,
+		"category": "Insulation materials",
+		"defname": "INSSlab_Fibre"
+	},
+	{
+		"abr": "insulationslab(hyper)",
+		"price": 64,
+		"category": "Insulation materials",
+		"defname": "INSSlab_Hyper"
+	},
+	{
+		"abr": "insulationslab(polymers)",
+		"price": 15,
+		"category": "Insulation materials",
+		"defname": "INSSlab_Polymer"
+	},
+	{
+		"abr": "quantumcooler(large)",
+		"price": 3333,
+		"category": "Temperature",
+		"defname": "QC_QuantumCooler_Large"
+	},
+	{
+		"abr": "quantumcooler(prototype)",
+		"price": 675,
+		"category": "Temperature",
+		"defname": "QC_QuantumCooler_Proto"
+	},
+	{
+		"abr": "quantumcooler(small)",
+		"price": 1592,
+		"category": "Temperature",
+		"defname": "QC_QuantumCooler"
+	},
+	{
+		"abr": "quantumheater(large)",
+		"price": 3333,
+		"category": "Temperature",
+		"defname": "QC_QuantumHeater_Large"
+	},
+	{
+		"abr": "quantumheater(small)",
+		"price": 1592,
+		"category": "Temperature",
+		"defname": "QC_QuantumHeater"
+	},
+	{
+		"abr": "aisr2g",
+		"price": 3617,
+		"category": "Road equipment",
+		"defname": "RotR_AISR2GNew"
+	},
+	{
+		"abr": "aisr2g",
+		"price": 8967,
+		"category": "Power",
+		"defname": "RotR_AISR2G"
+	},
+	{
+		"abr": "isr2g",
+		"price": 958,
+		"category": "Road equipment",
+		"defname": "RotR_ISR2GNew"
+	},
+	{
+		"abr": "isr2g",
+		"price": 48,
+		"category": "Power",
+		"defname": "RotR_ISR2G"
+	},
+	{
+		"abr": "vat-grownmegapede",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownMegapede"
+	},
+	{
+		"abr": "vat-grownmegascarab",
+		"price": 167,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownMegascarab"
+	},
+	{
+		"abr": "vat-grownmegaspider",
+		"price": 833,
+		"category": "Animal",
+		"defname": "VFEI_VatgrownMegaspider"
+	},
+	{
+		"abr": "vat-grownmilkbeetle",
+		"price": 583,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownMilkbeetle"
+	},
+	{
+		"abr": "vat-grownmonstrosity",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownMonstrosity"
+	},
+	{
+		"abr": "vat-grownprincess",
+		"price": 1500,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownPrincess"
+	},
+	{
+		"abr": "vat-grownroyallarva",
+		"price": 83,
+		"category": "Animal",
+		"defname": "VFEI_VatgrownRoyalLarva"
+	},
+	{
+		"abr": "vat-grownroyalmaggot",
+		"price": 333,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownRoyalMaggot"
+	},
+	{
+		"abr": "vat-grownspelopede",
+		"price": 333,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownSpelopede"
+	},
+	{
+		"abr": "vat-grownspiderweaver",
+		"price": 333,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownSpiderweaver"
+	},
+	{
+		"abr": "vat-growntitanbeetle",
+		"price": 917,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownTitanbeetle"
+	},
+	{
+		"abr": "vat-grownwargling",
+		"price": 833,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownWargling"
+	},
+	{
+		"abr": "vat-grownworkerant",
+		"price": 333,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownWorkerAnt"
+	},
+	{
+		"abr": "venomgland",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_VenomGland"
+	},
+	{
+		"abr": "ventricularsleeve",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_VentricularSleeve"
+	},
+	{
+		"abr": "warriorgeneticmaterial",
+		"price": 250,
+		"category": "Manufactured",
+		"defname": "VFEI_WarriorGenome"
+	},
+	{
+		"abr": "weaponscabinet",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "weaponslocker",
+		"price": 237,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsLocker"
+	},
+	{
+		"abr": "wine",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "VFEM_Wine"
+	},
+	{
+		"abr": "winebarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "VFEM_WineBarrel"
+	},
+	{
+		"abr": "woodplanks",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "WoodPlanks"
+	},
+	{
+		"abr": "writer'stable",
+		"price": 542,
+		"category": "Production",
+		"defname": "RimWriter_TableWriting"
+	},
+	{
+		"abr": "x-1cyberneticbodydefensesuit",
+		"price": 3333,
+		"category": "Apparel",
+		"defname": "Apparel_CyberSuit"
+	},
+	{
+		"abr": "xma-1leviathanmcahelmet",
+		"price": 2500,
+		"category": "Apparel",
+		"defname": "Apparel_LeviathanH"
+	},
+	{
+		"abr": "xma-1leviathanmechanizedcombatarmature",
+		"price": 8333,
+		"category": "Apparel",
+		"defname": "Apparel_Leviathan"
 	}
 	],
-	"total": 1688
+	"total": 1707
 }
